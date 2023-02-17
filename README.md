@@ -6,9 +6,11 @@ ResNet은 2015년에 나온 논문으로 ILSVRC이미지 인식 대회에서 1�
 
 본 실험에서는 Intel(R) Core(TM) i5-6600 CPU @ 3.30GHZ,  Ram 32.0GB, NVIDIA GeForce RTX 3060 환경에서 
 
-Python == 3.7.15 
+Python == 3.7.15   
 cuda ver. == 11.3  
 Pytorch == 1.12.1 
 를 사용하여 실험환경을 구축하였고 
 
 성능평가를 위해 Train과 Test data set에 대한 Accuracy와 Cross Entropy Loss를 사용하였다.
+
+
